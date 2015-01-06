@@ -2,7 +2,7 @@ ng-image-compress
 =================
 
 ######This Angular directive compresses jpeg or png files using angularjs on client side. It uses using HTML5 Canvas &amp; File API. The compression algorithm is based off of the J-I-C project on github. 
-###### There's the angularjs-imageupload-directive package that claims to do image compress, but somehow it doesn't compress images nearly as well as the J-I-C project's. Thus, this repo here. Some of the code was borrowed from the above too, so u will find similarities. Note: I have absolutely no clue why J-I-C's compression is better.
+###### There's an old angularjs-imageupload-directive from mischi package that claims to do image compress, but somehow it doesn't compress images nearly as well as the J-I-C project's. Thus, this repo here. Some of the code was borrowed from the above too, so u will find similarities. Note: I have absolutely no clue why J-I-C's compression is better.
 -----------
 
 Steps:
