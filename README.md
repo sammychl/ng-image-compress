@@ -17,3 +17,6 @@ Example:
 `<input id="inputImage" type="file" accept="image/*" image="image1" resize-max-height="1000" resize-max-width="1000" resize-quality="0.7" resize-type="image/jpg" />`
 
 **Adjustable: resize-max-height, resize-max-width, resize-quality, resize-type 
+
+
+For demo, u can just clone this repo and then run index.html. thanks!!
