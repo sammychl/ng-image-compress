@@ -5,7 +5,7 @@
  https://github.com/brunobar79/J-I-C
  *********************************/
 
-app.directive('image', ['$q',
+app.directive('ngImageCompress', ['$q',
 	function($q) {
 
 
